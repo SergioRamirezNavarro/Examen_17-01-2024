@@ -14,5 +14,6 @@ public class Main {
         automovil.mostrarDetalles();
         System.out.println();
         motocicleta.mostrarDetalles();
+
     }
 }

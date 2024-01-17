@@ -10,5 +10,6 @@ public class Motocicleta extends VehiculoMotorizado {
     public void mostrarDetalles() {
         super.mostrarDetalles();
         System.out.println("Tipo de motocicleta: " + tipoMotocicleta);
+
     }
 }

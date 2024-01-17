@@ -11,4 +11,5 @@ public class Automovil extends VehiculoMotorizado {
         super.mostrarDetalles();
         System.out.println("Número de puertas: " + numeroPuertas);
     }
+
 }

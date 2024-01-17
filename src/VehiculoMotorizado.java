@@ -13,4 +13,5 @@ public class VehiculoMotorizado extends Vehiculo {
         super.mostrarDetalles();
         System.out.println("Tipo de combustible: " + tipoCombustible);
     }
+
 }

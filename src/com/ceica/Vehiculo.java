@@ -17,5 +17,6 @@ public class Vehiculo
         System.out.println("Marca: " + marca);
         System.out.println("Modelo: " + modelo);
         System.out.println("Año de fabricación: " + annofabricacion);
+
     }
 }
